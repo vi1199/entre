@@ -1,9 +1,7 @@
-import { StyleSheet } from "react-native";
-import constants from "../../utils/constants";
-
+import { StyleSheet } from "react-native"
 
 export default StyleSheet.create({
-    container: {
-        fontFamily: 'Montserrat-Regular'
-    }
+	container: {
+		fontFamily: "Montserrat-Regular"
+	}
 })
